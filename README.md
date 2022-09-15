@@ -1,3 +1,8 @@
+In this project it's mostly learning about dictionary's. 
+I added country's and then instead of typing exactly in the dictionary I made a function to, add another country with the function. 
+
+
+
 ## Dictionary in List
 
 # UPDATE
